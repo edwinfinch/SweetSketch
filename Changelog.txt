@@ -1,0 +1,51 @@
+Changelog for Sweet Sketch
+Edwin Finch
+
+No you can't have my code
+
+Beta 1.0: 
+Initial release
+
+Beta 1.1: 
+Added Console
+Added circle size
+Added instructions
+Added incorrect key detector
+
+Beta 1.2:
+Cleaned up code
+Fixed instructions
+Removed incorrect key detector
+
+Beta 1.2.1:
+Bug fixes
+
+Beta 1.2.2:
+Fixed grammatical errors
+
+Beta 1.3:
+Added colour console to show current clour
+Added colour
+Cleaned code
+Changed console dimensions
+Fixed rendering issues
+Known issues:
+-Console says that colour six is enabled
+-Console clearing is screwed up due to colours
+-Console creates random boarder when clearing
+-Colour console disappears after pressing C
+
+Beta 1.3.1:
+Fixed false console boarder
+Fixed dimensions of console
+Fixed the colour changing when line point was set
+Fixed clearing issues
+Known issues:
+-Doesn't put the colour back in the colour console when 'c' is pressed
+-Lines don't have the assigned colour
+
+Beta 1.3.2:
+Fixed eraser having a black boarder
+Fixed fixed black boarder around normal drawing
+Known issues:
+-If you press W and a colour is assigned it ignores it
