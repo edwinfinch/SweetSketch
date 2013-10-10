@@ -24,7 +24,7 @@ Beta 1.2.2:
 Fixed grammatical errors
 
 Beta 1.3:
-Added colour console to show current clour
+Added colour console to show current colour
 Added colour
 Cleaned code
 Changed console dimensions
@@ -47,5 +47,16 @@ Known issues:
 Beta 1.3.2:
 Fixed eraser having a black boarder
 Fixed fixed black boarder around normal drawing
+Made circle drawing click and drag instead of enable then follow
+Added instruction on how to change colour
 Known issues:
 -If you press W and a colour is assigned it ignores it
+
+Beta 1.3.3:
+Added saving feature
+Changed line set delay from 500 to 250
+Added white and black to colour pallete
+Removed 'w' and 'b' keypress actions
+Fixed colours ignoring eachother
+Removed 'w' and 'b' controls from instructions
+
