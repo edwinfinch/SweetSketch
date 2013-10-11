@@ -79,10 +79,12 @@ Known issues:
 
 Beta 1.4.1:
 Added option to hide console ('x')
+Improved circles, press m to make bigger and n to reset back to 5
+Improved co-ordinate output and input
+Improved line and circle toggling (e for line and r for circle)
 Fixed lines screwing up from start after pressing 'e'
+Fixed console speaking when it was specifically told not to
+When clearing, it always changes to white and not assigned colour
 Known issues:
--Backgrounds are screwed up when trying to switch to white or black
--After disabling console the stroke will set itself to white and won't change until you change colours
--Backgrounds are still fucked up
--Console in the IDE still displays lines even when told not to
--Screenshots folder doesn't rename to a capital unless you manually do it
+-Console in program clears to white and not assigned background colour
+-When switching colours and drawing it makes one of the circles black
