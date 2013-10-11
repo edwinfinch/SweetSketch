@@ -88,3 +88,8 @@ When clearing, it always changes to white and not assigned colour
 Known issues:
 -Console in program clears to white and not assigned background colour
 -When switching colours and drawing it makes one of the circles black
+
+Stable 1.0:
+Fixed all errors inside instructions
+Fixed instructions failing to load
+Fixed some of the black circles
