@@ -73,3 +73,16 @@ Fixed bug where lines wouldn't place using the assigned colour
 Fixed the filesaving overwriting eachother
 Cleaned up code so the lines work better
 Right click to set co-ordinate 1 and left click to set co-ordinate 2. Place by middle clicking.
+Known issues:
+-Backgrounds are screwed up when trying to switch to white or black
+-Tristen is stupid
+
+Beta 1.4.1:
+Added option to hide console ('x')
+Fixed lines screwing up from start after pressing 'e'
+Known issues:
+-Backgrounds are screwed up when trying to switch to white or black
+-After disabling console the stroke will set itself to white and won't change until you change colours
+-Backgrounds are still fucked up
+-Console in the IDE still displays lines even when told not to
+-Screenshots folder doesn't rename to a capital unless you manually do it
