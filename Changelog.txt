@@ -60,3 +60,16 @@ Removed 'w' and 'b' keypress actions
 Fixed colours ignoring eachother
 Removed 'w' and 'b' controls from instructions
 
+Beta 1.4:
+Added an actual line drawing tool
+Added background colour changing feature
+Added background colour changing to clear function
+Added folder sorting to screenshots
+Added a better instruction guide
+Changed the way instructions are drawn
+Changed filename of screenshot
+Changed screenshot filetype to JPG from TIFF
+Fixed bug where lines wouldn't place using the assigned colour
+Fixed the filesaving overwriting eachother
+Cleaned up code so the lines work better
+Right click to set co-ordinate 1 and left click to set co-ordinate 2. Place by middle clicking.
