@@ -1,3 +1,4 @@
-Sweet Sketch Beta 1.2.2-Stable 1.0 is property of Edwin Finch
-
-To download latest release, go to Stable's - [Your OS and X here] download that whole folder.
+SweetSketch was an assignment for my computer sciences class in grade 10. 
+I don't know why the heak I put it on GitHub.
+But I'll leave it here anyway.
+Just in case.
