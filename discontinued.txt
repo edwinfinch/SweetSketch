@@ -1,0 +1,3 @@
+This application/code/etc. is discontinued. 
+
+It will no longer be supported by Edwin Finch whatsoever. No updates will be pushed to this repository.
